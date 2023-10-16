@@ -1,0 +1,22 @@
+{
+  "name": "react-three-fiber-boilerplate-fps-octree",
+  "version": "1.0.0",
+  "description": "See documentation at https://sbcode.net/react-three-fiber/fps-octree \n\nCourse : https://sbcode.net/react-three-fiber \n\nCourse Coupons : https://sbcode.net/coupons \n",
+  "keywords": ["octree"],
+  "main": "src/index.jsx",
+  "dependencies": {
+    "@react-three/drei": "9.56.24",
+    "@react-three/fiber": "8.11.1",
+    "leva": "0.9.34",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.149.0"
+  },
+  "scripts": {
+    "start": "r3f-pack start",
+    "build": "r3f-pack build"
+  },
+  "devDependencies": {
+    "r3f-pack": "^2.0.4"
+  }
+}
